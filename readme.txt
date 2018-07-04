@@ -14,6 +14,6 @@ git tracks changes
 Creating a new branch is quick
 
 
-Create a new branch is quick AND
+
 
 creating a new branch is quick & simple
